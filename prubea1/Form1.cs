@@ -16,7 +16,7 @@ namespace prubea1
         public Form1()
         {
             InitializeComponent();
-            Bitmap img = new Bitmap(Application.StartupPath + @"\img\fondoHome.png");
+            Bitmap img = new Bitmap(Application.StartupPath + @"BQueen\prubea\\img\fondoHome.png");
             this.BackgroundImage = img;
             this.BackgroundImageLayout = ImageLayout.Stretch;
             btnHome.TabStop = false;
