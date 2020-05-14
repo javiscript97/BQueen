@@ -73,6 +73,16 @@ namespace prubea1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap fondoHome {
+            get {
+                object obj = ResourceManager.GetObject("fondoHome", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap olakase {
             get {
                 object obj = ResourceManager.GetObject("olakase", resourceCulture);

@@ -16,14 +16,8 @@ namespace prubea1
         public Form1()
         {
             InitializeComponent();
-            Bitmap img = new Bitmap(Application.StartupPath + @"BQueen\prubea\\img\fondoHome.png");
-            this.BackgroundImage = img;
-            this.BackgroundImageLayout = ImageLayout.Stretch;
-            btnHome.TabStop = false;
-            btnHome.FlatStyle = FlatStyle.Flat;
-            btnHome.FlatAppearance.BorderSize = 0;
-        }
 
+        }
         private void btnHome_Click(object sender, EventArgs e)
         {   
             Form Form2 = new Form2();

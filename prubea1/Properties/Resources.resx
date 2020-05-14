@@ -127,10 +127,13 @@
   <data name="stotabuenisimo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stotabuenisimo2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="olakase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\olakase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="stotabuenisimo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\stotabuenisimo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="olakase" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\olakase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="fondoHome" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondoHome.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

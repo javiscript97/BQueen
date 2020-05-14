@@ -78,7 +78,7 @@
             this.tabControl1.Location = new System.Drawing.Point(12, 67);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1020, 976);
+            this.tabControl1.Size = new System.Drawing.Size(1020, 882);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -95,7 +95,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 25);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1012, 947);
+            this.tabPage1.Size = new System.Drawing.Size(1012, 853);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Menus";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -229,7 +229,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 25);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1012, 947);
+            this.tabPage2.Size = new System.Drawing.Size(1012, 853);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Novedades";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -242,6 +242,7 @@
             this.label12.Size = new System.Drawing.Size(169, 17);
             this.label12.TabIndex = 24;
             this.label12.Text = "La buena hamburguesica";
+            this.label12.Click += new System.EventHandler(this.label12_Click);
             // 
             // groupBox1
             // 
