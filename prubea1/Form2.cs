@@ -17,18 +17,16 @@ namespace prubea1
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void groupBox1_Enter(object sender, EventArgs e)
         {
         }
 
-        private void label12_Click(object sender, EventArgs e)
+        private void btnLogin_Click(object sender, EventArgs e)
         {
-
+            Form Form3 = new Form3();
+            this.Hide();
+            Form3.ShowDialog();
+            this.Visible = true;
         }
     }
 }
